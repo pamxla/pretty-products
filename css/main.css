@@ -15,3 +15,10 @@ body {
 main {
   margin: 1rem;
 }
+
+h2 {
+  font-family: Oswald, sans-serif;
+  margin: 0;
+  color: #6f00e7;
+  font-size: 2rem;
+}
