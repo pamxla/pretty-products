@@ -7,3 +7,11 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+main {
+  margin: 1rem;
+}
